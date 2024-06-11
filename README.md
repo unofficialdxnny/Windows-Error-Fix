@@ -10,7 +10,7 @@ Thank you for considering contributing to this project! Contributions are welcom
 1. Fork the repository and clone it to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/Windows-Error-Fix.git
+   git clone https://github.com/unofficialdxnny/Windows-Error-Fix.git
    ```
 
 2. Create a new branch to work on.
